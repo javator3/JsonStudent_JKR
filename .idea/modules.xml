@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JSONStudent.iml" filepath="$PROJECT_DIR$/JSONStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readStudent/readStudent.iml" filepath="$PROJECT_DIR$/readStudent/readStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saveStudent/saveStudent.iml" filepath="$PROJECT_DIR$/saveStudent/saveStudent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentModel/studentModel.iml" filepath="$PROJECT_DIR$/studentModel/studentModel.iml" />
+    </modules>
+  </component>
+</project>
