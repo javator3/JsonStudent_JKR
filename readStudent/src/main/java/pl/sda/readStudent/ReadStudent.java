@@ -15,7 +15,7 @@ public class ReadStudent {
 
 
         ObjectMapper mapper = new ObjectMapper();
-        File file = new  File ("students.jason");
+        File file = new  File ("students.json");
 
 
         Student[]students = new Student[0];
